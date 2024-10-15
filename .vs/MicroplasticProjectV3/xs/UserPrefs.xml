@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{5B1513B4-7B04-8234-2346-4AC6C815A8CD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/module-omicron-master/CAVE2/Scripts/Colors/Seaweed Color.cs">
+    <Files>
+      <File FileName="Assets/module-omicron-master/CAVE2/Scripts/Colors/Seaweed Color.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MicroplasticProjectV3" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="module-omicron-master" expanded="True">
+                <Node name="CAVE2" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Colors" expanded="True">
+                      <Node name="Seaweed Color.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1da5ffd7-5f10-400c-b855-951407a2dfdd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
